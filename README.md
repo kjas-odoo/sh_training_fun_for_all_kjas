@@ -4,3 +4,4 @@ this is a super coool training project
 There are somemodule in here taken straight from odoo community, just as examples, please don't sue me
 
 10th April 2025 - SH training with HJE
+Deleted the deploye key - 10 APR 2025
